@@ -1,0 +1,14 @@
+:root {
+    view-transition-name: root;
+}
+
+body {
+    background: #f8e8a6;
+    display: block;
+    margin-top: 8px;
+}
+
+footer {
+    text-align: centre;
+    display: block;
+}
