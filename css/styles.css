@@ -15,7 +15,7 @@ p {
     max-width: 100px;
     border-radius: 10px;
     display: block;
-    margin: 10px;
+    margin: 30px auto;
 }
 
 footer {
@@ -23,6 +23,6 @@ footer {
 }
 
 footer a {
-    margin: 10px;
+    margin: 0 10px;
     color: blue;
 }
