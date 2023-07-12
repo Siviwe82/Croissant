@@ -6,7 +6,16 @@ body {
     text-align: center;
 }
 
+h1,
+p {
+  text-align: center;  
+}
+
 footer {
-    text-align: centre;
-    display: block;
+    text-align: center;
+}
+
+footer a {
+    margin: 10px;
+    color: blue;
 }
